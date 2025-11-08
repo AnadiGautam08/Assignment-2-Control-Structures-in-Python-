@@ -8,6 +8,8 @@
     
     3. 	Displays the result accordingly.
 
+---
+
 ## 🧮 Task 2: Check if a Number is Even or Odd
 
     1.   Uses a for loop to iterate over numbers from 1 to 50.
@@ -15,6 +17,8 @@
     2.   Calculates the sum of all integers in this range.
     
     3.   Displays the final sum.
+
+---
     
 ## :blue_book: Reference
 
